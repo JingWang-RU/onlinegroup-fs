@@ -1,6 +1,7 @@
 
-% Below is the main streamwise feature selection (SFS) code. It uses two helper functions, Linear_Regression and Prediction_Error 
-% the main function, Alpha_Investing , 
+% Below is the adjusted main streamwise feature selection (SFS) code. It uses two helper functions, Linear_Regression and Prediction_Error 
+% the main function, Alpha_Investing 
+% 'Streaming feature selection using alpha-investing', Zhou, Jing and Foster, Dean and Stine, Robert and Ungar, Lyle, KDD, 2005
 
 %  function [w,model] =Alpha_Investing(X, y, no_para_1, no_para_2)
 function flist =Alpha_Investing(X, y, no_para_1, no_para_2)
