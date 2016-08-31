@@ -32,6 +32,8 @@ Journal version
 ```
 ## Contents
 * Comparative methods: Alpha-investing, Grafting, GBFS
+* Liblinear-1.94
+* Toolbox: Spams
 
 ## How to Use
 
