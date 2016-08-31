@@ -1,6 +1,10 @@
 % this function is to make the GBFS to a package, and used by onlinefeature
 % selection
+<<<<<<< HEAD
 function [feaIdx] = GBFS_jing(train_x, train_y, param_one, param_two)
+=======
+function [feaIdx] = GBFS_revisit(train_x, train_y, param_one, param_two)
+>>>>>>> 222a11cbe2b0b8e38401a3042cd5d1e034930a93
 % input data: 
 % xtr: ntr*m; % training data, seperate into training and validation
 % ytr: ntr*1; 
