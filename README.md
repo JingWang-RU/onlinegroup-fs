@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
-# ${1:Online Feature Selection for Streaming Features with Group Structure}
-## Author
+# Online Feature Selection for Streaming Features with Group Structure
+## Created by
 
 Jing Wang (jw998@rutgers.edu)
 
-## Citing online group feature selection
+## Reference
 
 Conference version
 ```
@@ -31,8 +31,10 @@ Journal version
 }
 ```
 ## Contents
-* Comparative methods
+* Comparative methods:Alpha-investing, Grafting, GBFS
+
 ## How to Use
+
 * Please directly call Main.m
 ]]></content>
   <tabTrigger>readme</tabTrigger>
