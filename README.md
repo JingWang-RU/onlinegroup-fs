@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # Online Feature Selection for Streaming Features with Group Structure
 ## Created by
 
@@ -31,11 +31,12 @@ Journal version
 }
 ```
 ## Contents
-* Comparative methods:Alpha-investing, Grafting, GBFS
+* Comparative methods: Alpha-investing, Grafting, GBFS
 
 ## How to Use
 
 * Please directly call Main.m
-]]></content>
+
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
