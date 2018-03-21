@@ -1,12 +1,20 @@
 # [Online Feature Selection for Streaming Features with Group Structure](http://ieeexplore.ieee.org/abstract/document/7118201/)
 
 ## Contents
-*Algorithm: OGFS
-* Comparative methods: Alpha-investing, Grafting, GBFS
 
-## Required
+* Algorithm: OGFS
+* Comparative methods: Alpha-investing, Grafting, GBFS
 * Liblinear-1.94
 * Toolbox: Spams
+
+## How to use
+
+Choose the algorithm in `Main.m`
+
+```Shell
+# At the matlab prompt, run the script:
+>> Main
+```
 
 ## Reference papers
 
