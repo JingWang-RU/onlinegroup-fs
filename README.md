@@ -1,13 +1,17 @@
-<snippet>
-  <content>
-# Online Feature Selection for Streaming Features with Group Structure
-## Created by
+# [Online Feature Selection for Streaming Features with Group Structure](http://ieeexplore.ieee.org/abstract/document/7118201/)
 
-Jing Wang (jw998@rutgers.edu)
+## Contents
+*Algorithm: OGFS
+* Comparative methods: Alpha-investing, Grafting, GBFS
 
-## Reference
+## Required
+* Liblinear-1.94
+* Toolbox: Spams
 
-Conference version
+## Reference papers
+
+If you find this work useful in your research, please consider citing:
+
 ```
 @inproceedings{wang2013online,
   title={Online Group Feature Selection.},  
@@ -17,7 +21,6 @@ Conference version
   organization={Citeseer}
 }
 ```
-Journal version
 ```
 @article{wang2015online,
   title={Online feature selection with group structure analysis},  
@@ -30,15 +33,6 @@ Journal version
   publisher={IEEE}
 }
 ```
-## Contents
-* Comparative methods: Alpha-investing, Grafting, GBFS
-* Liblinear-1.94
-* Toolbox: Spams
 
-## How to Use
 
-* Please directly call Main.m
 
-</content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
