@@ -2,10 +2,11 @@
 
 ## Contents
 
-* Algorithm: OGFS
-* Comparative methods: Alpha-investing, Grafting, GBFS
-* Liblinear-1.94
-* Toolbox: Spams
+* Algorithm: OGFS,
+* Datasets: Cifar-10, Spectf, Spambase, Wdbc, Ion in MATLAB format,
+* Comparative feature selection methods: Alpha-investing, Grafting, GBFS.
+* [Liblinear-1.94](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+* [Spams](http://spams-devel.gforge.inria.fr/)
 
 ## How to use
 
